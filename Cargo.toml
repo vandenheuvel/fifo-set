@@ -1,0 +1,13 @@
+[package]
+name = "fifo-set"
+version = "1.0.0"
+authors = ["Bram van den Heuvel <bram@vandenheuvel.online>"]
+edition = "2018"
+
+description = "FIFO queue with unique elements"
+repository = "https://github.com/vandenheuvel/fifo-set"
+
+keywords = ["FIFO", "set", "unique", "deque", "vecdeque"]
+categories = ["algorithms", "data-structures"]
+
+license = "GPL-3.0-only"
